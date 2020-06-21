@@ -5,5 +5,3 @@ if n > 0:
 else:
     b = n
     print("Valor negativo!")
-
- 
