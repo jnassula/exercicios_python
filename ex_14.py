@@ -1,5 +1,6 @@
 valor_hora = 10.00
 valor_hora_extra = 20.00
+extra = 0 
 
 code = int(input("Digite o código do funcionário: "))
 hours = float(input("Informe o número de horas trabalhadas: "))
